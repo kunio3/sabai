@@ -34,7 +34,7 @@
 # Dev
 開発言語：PHP8.3  
 データベース：MySQL8.0  
-フロント：HTML5/CSS3/jQuery3.7  
+フロント：HTML5、CSS3、jQuery3.7  
 Webサーバ: Apache  
 開発ツール: VSCode  
 OS: macOS Sequoia  
